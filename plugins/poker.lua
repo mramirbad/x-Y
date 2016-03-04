@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return " 😐 "
+  return " 😐😏 "
   end
 return {
   description = "poker!", 
